@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Bu proje next.js kullanılarak react ile basit bir resim beğeni uygulamasıdır.Rastgele gelen fotoğrafların üzerinde bulunan kalp iconlarının tıklandıkça büyümesi şeklinde basit başlangıç seviyesi bir uygulamadır.
 
 ## Getting Started
 
